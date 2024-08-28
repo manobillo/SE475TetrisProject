@@ -1,2 +1,2 @@
-# remaking 1010! app game via python
+remaking 1010! app game via python
 
